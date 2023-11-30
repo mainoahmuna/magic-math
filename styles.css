@@ -1,0 +1,46 @@
+header {
+    background-color: orange;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+footer {
+    background-color: orange;
+}
+
+#buttonsWorkspace{
+    display: flex;
+    gap: 40px;
+}
+
+#rand {
+    width: 100px;
+    height: 100px;
+    font-size: 50pt;
+}
+
+#mathFunctions > button {
+    width: 50px;
+    height: 50px;
+    font-size: 20pt;
+}
+
+#winLoss {
+    display: flex;
+    gap: 40px;
+}
+
+#newGameButton {
+    height: auto;
+    width: auto;
+    margin-bottom: 1.0%;
+}
+
+#firstNum {
+    display: none;
+}
+ 
+#secondNum {
+    display: none;
+} 
